@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe201cc-7d89-40d0-830f-8056e07eb200" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture01_before_oop/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture01_before_oop/ArraysWithMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture01_before_oop/DefiniteVsIndefiniteLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture01_before_oop/IfElseConditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture01_before_oop/InfiniteLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture01_before_oop/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture01_before_oop/LoopsJumpStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture01_before_oop/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture01_before_oop/MultiDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture01_before_oop/PrimitiveTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture01_before_oop/SentinelExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture01_before_oop/VariablesAndConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture02_fencepost_problem/FencePostProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture02_fencepost_problem/FencePostProblemTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture03_intro_classes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture03_intro_classes/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture03_intro_classes/Road.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture03_intro_classes/SimpleClasses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +137,7 @@
       <workItem from="1740483609779" duration="4105000" />
       <workItem from="1740646447040" duration="2000" />
       <workItem from="1740656470275" duration="4150000" />
-      <workItem from="1741086969283" duration="2318000" />
+      <workItem from="1741086969283" duration="5012000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
