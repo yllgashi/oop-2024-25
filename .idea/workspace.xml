@@ -5,10 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe201cc-7d89-40d0-830f-8056e07eb200" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lecture03_intro_classes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture03_intro_classes/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture03_intro_classes/Road.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture03_intro_classes/SimpleClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture04_real_life_classes/CoffeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture04_real_life_classes/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture04_real_life_classes/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture04_real_life_classes/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture05_university_classes/Attendance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture05_university_classes/Campus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture05_university_classes/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture05_university_classes/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture05_university_classes/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture05_university_classes/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture06_restaurant_classes/ApplicationObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture06_restaurant_classes/Chef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture06_restaurant_classes/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture06_restaurant_classes/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture06_restaurant_classes/Waiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture07_car_as_blueprint_example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture07_car_as_blueprint_example/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture08_data_and_functional_members/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture08_data_and_functional_members/MainTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture08_data_and_functional_members/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture09_data_and_functional_members/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture09_data_and_functional_members/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10_data_and_functional_members/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10_data_and_functional_members/Pizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,26 +69,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FencePostProblemTwo">
-    <configuration name="DefiniteVsIndefiniteLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture01_before_oop.DefiniteVsIndefiniteLoops" />
+  <component name="RunManager" selected="Application.lecture09_data_and_functional_members.Main">
+    <configuration name="ApplicationObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture06_restaurant_classes.ApplicationObjects" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture01_before_oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FencePostProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture02_fencepost_problem.FencePostProblem" />
-      <module name="oop-2024-25" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture02_fencepost_problem.*" />
+          <option name="PATTERN" value="lecture06_restaurant_classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture01_before_oop.MultiDimensionalArray" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture08_data_and_functional_members.Main" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture01_before_oop.*" />
+          <option name="PATTERN" value="lecture08_data_and_functional_members.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +109,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentinelExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture01_before_oop.SentinelExample" />
+    <configuration name="lecture07_car_as_blueprint_example.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture07_car_as_blueprint_example.Main" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture01_before_oop.*" />
+          <option name="PATTERN" value="lecture07_car_as_blueprint_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lecture09_data_and_functional_members.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture09_data_and_functional_members.Main" />
+      <module name="oop-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture09_data_and_functional_members.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lecture09_data_and_functional_members.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lecture07_car_as_blueprint_example.Main" />
+        <item itemvalue="Application.ApplicationObjects" />
         <item itemvalue="Application.FencePostProblemTwo" />
-        <item itemvalue="Application.DefiniteVsIndefiniteLoops" />
-        <item itemvalue="Application.FencePostProblem" />
-        <item itemvalue="Application.SentinelExample" />
-        <item itemvalue="Application.MultiDimensionalArray" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +158,8 @@
       <workItem from="1740646447040" duration="2000" />
       <workItem from="1740656470275" duration="4150000" />
       <workItem from="1741086969283" duration="5012000" />
+      <workItem from="1741259425513" duration="6515000" />
+      <workItem from="1741693222183" duration="4357000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
