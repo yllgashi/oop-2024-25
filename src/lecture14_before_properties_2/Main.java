@@ -40,5 +40,6 @@ public class Main {
         Account account2 = new Account();
         account2.email = "test";
         account2.password = "1";
+        System.out.println(account2.password);
     }
 }

@@ -5,19 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe201cc-7d89-40d0-830f-8056e07eb200" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lecture11_football_league/Club.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11_football_league/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11_football_league/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11_football_league/Match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11_football_league/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11_football_league/TableStat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture12_data_and_functional_members/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture12_data_and_functional_members/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture13_before_properties_1/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture13_before_properties_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture14_before_properties_2/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture14_before_properties_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture11_1_merrjep/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture11_1_merrjep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture15_after_properties_3/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture15_after_properties_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture15_after_properties_3/MainTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture16_properties_football/Club.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture16_properties_football/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture16_properties_football/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture16_properties_football/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture17_this_keyword/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture17_this_keyword/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture18_with_vs_without_properties/Account1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture18_with_vs_without_properties/Account2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture18_with_vs_without_properties/Account3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture18_with_vs_without_properties/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture19_online_shopping/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture19_online_shopping/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture19_online_shopping/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture19_online_shopping/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture14_before_properties_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture14_before_properties_2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +65,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lecture13_before_properties_1.Main">
+  <component name="RunManager" selected="Application.lecture19_online_shopping.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture08_data_and_functional_members.Main" />
+      <option name="MAIN_CLASS_NAME" value="lecture15_after_properties_3.Main" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture08_data_and_functional_members.*" />
+          <option name="PATTERN" value="lecture15_after_properties_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture09_data_and_functional_members.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture09_data_and_functional_members.Main" />
+    <configuration name="lecture11_1_merrjep.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture11_1_merrjep.Main" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture09_data_and_functional_members.*" />
+          <option name="PATTERN" value="lecture11_1_merrjep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,20 +97,7 @@
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture11_football_league.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lecture12_data_and_functional_members.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture12_data_and_functional_members.Main" />
-      <module name="oop-2024-25" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture12_data_and_functional_members.*" />
+          <option name="PATTERN" value="lecture11_1_merrjep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,13 +118,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lecture19_online_shopping.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture19_online_shopping.Main" />
+      <module name="oop-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture19_online_shopping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lecture19_online_shopping.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lecture11_1_merrjep.Main" />
         <item itemvalue="Application.lecture13_before_properties_1.Main" />
         <item itemvalue="Application.lecture11_football_league.Main" />
-        <item itemvalue="Application.lecture12_data_and_functional_members.Main" />
-        <item itemvalue="Application.lecture09_data_and_functional_members.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +157,10 @@
       <workItem from="1741259425513" duration="6515000" />
       <workItem from="1741693222183" duration="4717000" />
       <workItem from="1741865714900" duration="5153000" />
+      <workItem from="1742288107987" duration="661000" />
+      <workItem from="1742297542903" duration="885000" />
+      <workItem from="1742298468505" duration="4213000" />
+      <workItem from="1742470115809" duration="5545000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
