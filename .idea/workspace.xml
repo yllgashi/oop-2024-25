@@ -5,44 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe201cc-7d89-40d0-830f-8056e07eb200" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lecture20_system_nature/PersonAtHospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture21_interaction_between_objects/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture21_interaction_between_objects/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture21_interaction_between_objects/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture22_interaction_between_objects_2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture22_interaction_between_objects_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture22_interaction_between_objects_2/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture23_objects_know_things/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture23_objects_know_things/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture24_restaurant_system_from_use_case_diagram/Administrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture24_restaurant_system_from_use_case_diagram/Chef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture24_restaurant_system_from_use_case_diagram/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture24_restaurant_system_from_use_case_diagram/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture24_restaurant_system_from_use_case_diagram/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture25_class_design/ClassDesign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture25_class_design/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture25_class_design/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture25_class_design/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture26_new_keyword/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture26_new_keyword/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture27_default_values/DefaultValuesInObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture27_default_values/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture27_default_values/PrimitiveTypesDefaultValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture27_default_values/ReferenceTypesDefaultValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture28_reference_type/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture28_reference_type/ProveThatObjectsAreStoredInHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture28_reference_type/ProveThatPrimitiveTypesAreStoredInStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture28_reference_type/SimpleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture28_reference_type/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture28_reference_type/StackOverflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29_arrays_reference_types/PrimitiveTypeAsMethodParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29_arrays_reference_types/ReferenceTypeAsMethodParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture30_variable_shadow/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture31_encapsulation_1/DateWithLimitedAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture31_encapsulation_1/DateWithNoLimitedAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture31_encapsulation_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture32_encapsulation_2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture32_encapsulation_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture33_encapsulation_3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture33_encapsulation_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture34_constructor_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture34_constructor_1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture35_constructor_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture35_constructor_2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture36_constructor_3/MainAdministration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture36_constructor_3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture37_constructor_4/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture37_constructor_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture38_constructor_5/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture38_constructor_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture39_constructor_6/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture39_constructor_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture40_packages/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,13 +60,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.lecture38_constructor_5.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture31_encapsulation_1.Main" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lecture31_encapsulation_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainAdministration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture36_constructor_3.MainAdministration" />
+      <module name="oop-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture36_constructor_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,32 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProveThatObjectsAreStoredInHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture28_reference_type.ProveThatObjectsAreStoredInHeap" />
-      <module name="oop-2024-25" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture28_reference_type.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProveThatPrimitiveTypesAreStoredInStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture28_reference_type.ProveThatPrimitiveTypesAreStoredInStack" />
-      <module name="oop-2024-25" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture28_reference_type.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReferenceTypeAsMethodParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture29_arrays_reference_types.ReferenceTypeAsMethodParameter" />
       <module name="oop-2024-25" />
@@ -149,13 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lecture38_constructor_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture38_constructor_5.Main" />
+      <module name="oop-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture38_constructor_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lecture38_constructor_5.Main" />
+        <item itemvalue="Application.MainAdministration" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PrimitiveTypeAsMethodParameter" />
         <item itemvalue="Application.ReferenceTypeAsMethodParameter" />
-        <item itemvalue="Application.ProveThatObjectsAreStoredInHeap" />
-        <item itemvalue="Application.ProveThatPrimitiveTypesAreStoredInStack" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +162,7 @@
       <workItem from="1743495752147" duration="799000" />
       <workItem from="1743503167166" duration="5443000" />
       <workItem from="1743676413437" duration="5024000" />
+      <workItem from="1744108663063" duration="4731000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
