@@ -1,4 +1,4 @@
-package lecture40_packages;
+package lecture41_packages;
 
 import lecture27_default_values.Person;
 
