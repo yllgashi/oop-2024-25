@@ -5,34 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe201cc-7d89-40d0-830f-8056e07eb200" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lecture40_constructor_7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture40_constructor_7/ShoppingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture42_class_modeling/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture42_class_modeling/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture42_class_modeling/Waiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture43_enums_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture43_enums_1/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture44_enums_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture44_enums_2/SeasonClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture44_enums_2/SeasonEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture45_enums_3_important/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture45_enums_3_important/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture45_enums_3_important/WhichOneIsMoreReadable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture46_enum_methods/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture46_enum_methods/EnumInitalization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture46_enum_methods/GetEnumElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture47_enum_real_world/ApplicationWithEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture47_enum_real_world/ApplicationWithoutEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture47_enum_real_world/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture48_enums_advanced/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture48_enums_advanced/SearchEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture49_enum_as_method_parameter/AdvancedDayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture49_enum_as_method_parameter/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture49_enum_as_method_parameter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture50_enums_advanced/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture50_enums_advanced/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture51_enums_real_world/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture51_enums_real_world/Region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture51_enums_real_world/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture52_reference_type_vs_primitive_type/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture52_reference_type_vs_primitive_type/MyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture53_pass_by_value_vs_pass_by_ref/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture53_pass_by_value_vs_pass_by_ref/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture40_packages/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture41_packages/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,33 +53,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lecture50_enums_advanced.Main">
-    <configuration name="ApplicationWithEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture47_enum_real_world.ApplicationWithEnum" />
-      <module name="oop-2024-25" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture47_enum_real_world.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetEnumElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture46_enum_methods.GetEnumElements" />
-      <module name="oop-2024-25" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture46_enum_methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.lecture53_pass_by_value_vs_pass_by_ref.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture45_enums_3_important.Main" />
       <module name="oop-2024-25" />
@@ -139,13 +93,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lecture52_reference_type_vs_primitive_type.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture52_reference_type_vs_primitive_type.Main" />
+      <module name="oop-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture52_reference_type_vs_primitive_type.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lecture53_pass_by_value_vs_pass_by_ref.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture53_pass_by_value_vs_pass_by_ref.Main" />
+      <module name="oop-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture53_pass_by_value_vs_pass_by_ref.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lecture53_pass_by_value_vs_pass_by_ref.Main" />
+        <item itemvalue="Application.lecture52_reference_type_vs_primitive_type.Main" />
         <item itemvalue="Application.lecture50_enums_advanced.Main" />
         <item itemvalue="Application.lecture48_enums_advanced.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ApplicationWithEnum" />
-        <item itemvalue="Application.GetEnumElements" />
       </list>
     </recent_temporary>
   </component>
@@ -178,6 +158,7 @@
       <workItem from="1744108663063" duration="4766000" />
       <workItem from="1744281740603" duration="4439000" />
       <workItem from="1744713359848" duration="5222000" />
+      <workItem from="1744886498358" duration="4358000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
