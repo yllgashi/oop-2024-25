@@ -4,14 +4,14 @@ public class Main {
     public static void main(String[] args) {
         // pass by value
         int number = 100;
-        changePrimitiveTypeValue(number);
+        changePrimitiveTypeValue(number); // pass by value
         System.out.println(number); // value of primitive variable "number" didn't change - because we are sending only value "100" not the location in memory where this variable exists
 
 
         // pass by reference
         Person person = new Person();
         person.firstName = "Filan";
-        changeReferenceTypeValue(person);
+        changeReferenceTypeValue(person); // pass by reference
         System.out.println(person.firstName);
 
 

@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe201cc-7d89-40d0-830f-8056e07eb200" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lecture51_enums_real_world/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture51_enums_real_world/Region.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture51_enums_real_world/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture52_reference_type_vs_primitive_type/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture52_reference_type_vs_primitive_type/MyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture53_pass_by_value_vs_pass_by_ref/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture53_pass_by_value_vs_pass_by_ref/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture54_exercises/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture54_exercises/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture54_exercises/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture53_pass_by_value_vs_pass_by_ref/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture53_pass_by_value_vs_pass_by_ref/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +50,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lecture53_pass_by_value_vs_pass_by_ref.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture45_enums_3_important.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DefaultValuesInObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture27_default_values.DefaultValuesInObject" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture45_enums_3_important.*" />
+          <option name="PATTERN" value="lecture27_default_values.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture48_enums_advanced.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture48_enums_advanced.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture54_exercises.Main" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture48_enums_advanced.*" />
+          <option name="PATTERN" value="lecture54_exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DefaultValuesInObject" />
         <item itemvalue="Application.lecture53_pass_by_value_vs_pass_by_ref.Main" />
         <item itemvalue="Application.lecture52_reference_type_vs_primitive_type.Main" />
         <item itemvalue="Application.lecture50_enums_advanced.Main" />
-        <item itemvalue="Application.lecture48_enums_advanced.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +156,7 @@
       <workItem from="1744281740603" duration="4439000" />
       <workItem from="1744713359848" duration="5222000" />
       <workItem from="1744886498358" duration="4358000" />
+      <workItem from="1745318068819" duration="4048000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -201,6 +199,11 @@
           <url>file://$PROJECT_DIR$/src/lecture28_reference_type/ProveThatObjectsAreStoredInHeap.java</url>
           <line>14</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lecture53_pass_by_value_vs_pass_by_ref/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
