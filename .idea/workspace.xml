@@ -5,11 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe201cc-7d89-40d0-830f-8056e07eb200" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lecture54_exercises/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture54_exercises/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture54_exercises/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture54_exercises/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture55_library_system/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture55_library_system/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture55_library_system/BookCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture55_library_system/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture55_library_system/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture55_library_system/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture56_object_logging/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture56_object_logging/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture56_object_logging/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture57_arrays_arraylists/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture57_arrays_arraylists/ArrayListGenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture58_arrays_arraylists_with_objects/ArrayListWithObjectsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture58_arrays_arraylists_with_objects/ArrayWithObjectsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture58_arrays_arraylists_with_objects/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture60_social_application/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture60_social_application/Facebook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture53_pass_by_value_vs_pass_by_ref/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture53_pass_by_value_vs_pass_by_ref/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture54_exercises/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture54_exercises/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture54_exercises/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture54_exercises/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +65,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DefaultValuesInObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture27_default_values.DefaultValuesInObject" />
+  <component name="RunManager" selected="Application.ArrayListWithObjectsExample">
+    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture57_arrays_arraylists.ArrayExample" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture27_default_values.*" />
+          <option name="PATTERN" value="lecture57_arrays_arraylists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture54_exercises.Main" />
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture57_arrays_arraylists.ArrayListExample" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture54_exercises.*" />
+          <option name="PATTERN" value="lecture57_arrays_arraylists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture50_enums_advanced.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture50_enums_advanced.Main" />
+    <configuration name="ArrayListWithObjectsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture58_arrays_arraylists_with_objects.ArrayListWithObjectsExample" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture50_enums_advanced.*" />
+          <option name="PATTERN" value="lecture58_arrays_arraylists_with_objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture52_reference_type_vs_primitive_type.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture52_reference_type_vs_primitive_type.Main" />
+    <configuration name="ArrayWithObjectsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture58_arrays_arraylists_with_objects.ArrayWithObjectsExample" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture52_reference_type_vs_primitive_type.*" />
+          <option name="PATTERN" value="lecture58_arrays_arraylists_with_objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture53_pass_by_value_vs_pass_by_ref.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture53_pass_by_value_vs_pass_by_ref.Main" />
+    <configuration name="lecture56_object_logging.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture56_object_logging.Main" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture53_pass_by_value_vs_pass_by_ref.*" />
+          <option name="PATTERN" value="lecture56_object_logging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DefaultValuesInObject" />
-        <item itemvalue="Application.lecture53_pass_by_value_vs_pass_by_ref.Main" />
-        <item itemvalue="Application.lecture52_reference_type_vs_primitive_type.Main" />
-        <item itemvalue="Application.lecture50_enums_advanced.Main" />
+        <item itemvalue="Application.ArrayListWithObjectsExample" />
+        <item itemvalue="Application.ArrayWithObjectsExample" />
+        <item itemvalue="Application.ArrayExample" />
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.lecture56_object_logging.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +172,10 @@
       <workItem from="1744713359848" duration="5222000" />
       <workItem from="1744886498358" duration="4358000" />
       <workItem from="1745318068819" duration="4048000" />
+      <workItem from="1745915515217" duration="1443000" />
+      <workItem from="1745922901222" duration="1646000" />
+      <workItem from="1745924736847" duration="2954000" />
+      <workItem from="1746522258030" duration="6355000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />

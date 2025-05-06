@@ -19,10 +19,12 @@ public class Square {
     }
 
     public double calculatePerimeter() {
+        // P = 4a;
         return 4 * this.getA();
     }
 
     public double calculateSyprine() {
+        // S = a^2
         return this.getA() * this.getA();
     }
 
