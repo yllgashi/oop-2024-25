@@ -5,26 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe201cc-7d89-40d0-830f-8056e07eb200" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lecture54_exercises/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture55_library_system/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture55_library_system/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture55_library_system/BookCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture55_library_system/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture55_library_system/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture55_library_system/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture56_object_logging/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture56_object_logging/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture56_object_logging/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture57_arrays_arraylists/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture57_arrays_arraylists/ArrayListGenericExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture58_arrays_arraylists_with_objects/ArrayListWithObjectsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture58_arrays_arraylists_with_objects/ArrayWithObjectsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture58_arrays_arraylists_with_objects/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture60_social_application/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture60_social_application/Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture59_array_arraylist_methods/ArrayListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture59_array_arraylist_methods/ArrayMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture61_composition/Brain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture61_composition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture61_composition/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture62_aggregation/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture62_aggregation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture62_aggregation/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture63_one_to_one_relationship/Brain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture63_one_to_one_relationship/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture63_one_to_one_relationship/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture64_one_with_many_relationship/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture64_one_with_many_relationship/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture64_one_with_many_relationship/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture65_many_with_many_relationship/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture65_many_with_many_relationship/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture65_many_with_many_relationship/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture54_exercises/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture54_exercises/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture54_exercises/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture54_exercises/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,26 +63,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayListWithObjectsExample">
-    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture57_arrays_arraylists.ArrayExample" />
+  <component name="RunManager" selected="Application.lecture64_one_with_many_relationship.Main">
+    <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture59_array_arraylist_methods.ArrayListMethods" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture57_arrays_arraylists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture57_arrays_arraylists.ArrayListExample" />
-      <module name="oop-2024-25" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture57_arrays_arraylists.*" />
+          <option name="PATTERN" value="lecture59_array_arraylist_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayWithObjectsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture58_arrays_arraylists_with_objects.ArrayWithObjectsExample" />
+    <configuration name="ArrayMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture59_array_arraylist_methods.ArrayMethods" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture58_arrays_arraylists_with_objects.*" />
+          <option name="PATTERN" value="lecture59_array_arraylist_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +103,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture56_object_logging.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture56_object_logging.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture61_composition.Main" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture56_object_logging.*" />
+          <option name="PATTERN" value="lecture61_composition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lecture64_one_with_many_relationship.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture64_one_with_many_relationship.Main" />
+      <module name="oop-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture64_one_with_many_relationship.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lecture64_one_with_many_relationship.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrayMethods" />
+        <item itemvalue="Application.ArrayListMethods" />
         <item itemvalue="Application.ArrayListWithObjectsExample" />
-        <item itemvalue="Application.ArrayWithObjectsExample" />
-        <item itemvalue="Application.ArrayExample" />
-        <item itemvalue="Application.ArrayListExample" />
-        <item itemvalue="Application.lecture56_object_logging.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +174,9 @@
       <workItem from="1745922901222" duration="1646000" />
       <workItem from="1745924736847" duration="2954000" />
       <workItem from="1746522258030" duration="6355000" />
+      <workItem from="1746694464443" duration="1782000" />
+      <workItem from="1746700707033" duration="4710000" />
+      <workItem from="1747132418896" duration="4751000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -223,6 +224,11 @@
           <url>file://$PROJECT_DIR$/src/lecture53_pass_by_value_vs_pass_by_ref/Main.java</url>
           <line>23</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lecture64_one_with_many_relationship/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
