@@ -1,5 +1,8 @@
 package lecture02_fencepost_problem;
 
+import lecture72_inheritance_with_access_modifiers.Person;
+import lecture72_inheritance_with_access_modifiers.Student;
+
 public class FencePostProblem {
     public static void main(String[] args) {
         String text = "Cacttus Education";
