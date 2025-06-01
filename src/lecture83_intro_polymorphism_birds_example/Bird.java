@@ -34,6 +34,6 @@ public class Bird {
 
     // methods
     public void talk() {
-        System.out.println("No information...");
+        // ...
     }
 }

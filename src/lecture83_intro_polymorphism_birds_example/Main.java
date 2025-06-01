@@ -34,20 +34,16 @@ public class Main {
 
 
         // polymorphic call
-        Bird eagle2 = new Eagle("Shqiponja Kosovare", "Black"); // eagle2 is object of Eagle and Bird
-        Bird crow2 = new Crow("Sora Kosovare", "Black"); // crow2 is object of Crow and Bird
-        Bird owl2 = new Owl("Huti nga Mali", "Brown"); // owl2 is object of Owl and Bird
-
-        ArrayList<Bird> birds = new ArrayList<Bird>();
-        birds.add(eagle2);
-        birds.add(crow2);
-        birds.add(owl2);
+        ArrayList<Bird> birds = new ArrayList<Bird>(); // arraylist of BIRD
+        birds.add(eagle1); // eagle1 is object of Eagle and Bird
+        birds.add(crow1); // crow1 is object of Crow and Bird
+        birds.add(owl1); // owl1 is object of Owl and Bird
 
         for (int i = 0; i < birds.size(); i++) {
             System.out.println("Bird number: " + i);
             System.out.println(birds.get(i).getName());
             System.out.println(birds.get(i).getColor());
-            birds.get(i).talk();
+            birds.get(i).talk(); // polymorphic call
         }
     }
 }

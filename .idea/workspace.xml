@@ -5,70 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe201cc-7d89-40d0-830f-8056e07eb200" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lecture68_composition_hr_system/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture68_composition_hr_system/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture68_composition_hr_system/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture68_composition_hr_system/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture68_composition_hr_system/HrSystemDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture68_composition_hr_system/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture68_composition_hr_system/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture69_inheritance_one/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture69_inheritance_one/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture69_inheritance_one/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture70_inheritance_two/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture70_inheritance_two/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture70_inheritance_two/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture70_inheritance_two/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture70_inheritance_two/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture71_inheritance_hierarchy/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture71_inheritance_hierarchy/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture71_inheritance_hierarchy/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture71_inheritance_hierarchy/GroundAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture71_inheritance_hierarchy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture71_inheritance_hierarchy/SeaAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture72_inheritance_with_access_modifiers/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture72_inheritance_with_access_modifiers/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture72_inheritance_with_access_modifiers/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture73_inheritance_with_getters_and_setters/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture73_inheritance_with_getters_and_setters/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture73_inheritance_with_getters_and_setters/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture73_inheritance_with_getters_and_setters/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture74_inheritance_super_keyword/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture74_inheritance_super_keyword/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture74_inheritance_super_keyword/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture75_inheritance_super_constructor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture75_inheritance_super_constructor/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture75_inheritance_super_constructor/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture76_inheritance_super_constructor_with_params/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture76_inheritance_super_constructor_with_params/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture76_inheritance_super_constructor_with_params/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture77_override_method/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture77_override_method/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture77_override_method/StudenetVititPare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture77_override_method/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture78_override_vs_final/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture78_override_vs_final/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture78_override_vs_final/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture78_override_vs_final/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture79_override_vs_overload/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture79_override_vs_overload/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture79_override_vs_overload/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture80_object_class/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture80_object_class/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture81_override_object_methods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture81_override_object_methods/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture82_override_object_methods_example/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture82_override_object_methods_example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture82_override_object_methods_example/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture82_override_object_methods_example/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture82_override_object_methods_example/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture83_intro_polymorphism_birds_example/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture83_intro_polymorphism_birds_example/Crow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture83_intro_polymorphism_birds_example/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture83_intro_polymorphism_birds_example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture83_intro_polymorphism_birds_example/Owl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture84_object_of_two_classes_definition/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture84_object_of_two_classes_definition/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture84_object_of_two_classes_definition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture85_polymorphism_store_example/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture85_polymorphism_store_example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture85_polymorphism_store_example/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture85_polymorphism_store_example/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture85_polymorphism_store_example/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture86_polymorphism_payroll_example/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture86_polymorphism_payroll_example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture86_polymorphism_payroll_example/Professor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture02_fencepost_problem/FencePostProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture02_fencepost_problem/FencePostProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture83_intro_polymorphism_birds_example/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture83_intro_polymorphism_birds_example/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture83_intro_polymorphism_birds_example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture83_intro_polymorphism_birds_example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,39 +66,13 @@
       <command value="pr" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.lecture83_intro_polymorphism_birds_example.Main">
-    <configuration name="aaaa.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aaaa.Main" />
+  <component name="RunManager" selected="Application.lecture86_polymorphism_payroll_example.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture84_object_of_two_classes_definition.Main" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aaaa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lecture80_object_class.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture80_object_class.Main" />
-      <module name="oop-2024-25" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture80_object_class.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lecture81_override_object_methods.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture81_override_object_methods.Main" />
-      <module name="oop-2024-25" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture81_override_object_methods.*" />
+          <option name="PATTERN" value="lecture84_object_of_two_classes_definition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,13 +106,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lecture85_polymorphism_store_example.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture85_polymorphism_store_example.Main" />
+      <module name="oop-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture85_polymorphism_store_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lecture86_polymorphism_payroll_example.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture86_polymorphism_payroll_example.Main" />
+      <module name="oop-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture86_polymorphism_payroll_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lecture86_polymorphism_payroll_example.Main" />
+        <item itemvalue="Application.lecture85_polymorphism_store_example.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.lecture83_intro_polymorphism_birds_example.Main" />
         <item itemvalue="Application.lecture82_override_object_methods_example.Main" />
-        <item itemvalue="Application.aaaa.Main" />
-        <item itemvalue="Application.lecture81_override_object_methods.Main" />
-        <item itemvalue="Application.lecture80_object_class.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +186,7 @@
       <workItem from="1747737580296" duration="4390000" />
       <workItem from="1747910791382" duration="5565000" />
       <workItem from="1748337476801" duration="5751000" />
+      <workItem from="1748509039688" duration="6161000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
