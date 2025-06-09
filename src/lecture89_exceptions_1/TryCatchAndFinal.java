@@ -7,7 +7,8 @@ public class TryCatchAndFinal {
         // finally => the part of code which will be executed in the end if there is or there isn't an exception
 
         try {
-            System.out.println(1 / 0);
+            double result = 1 / 0;
+            System.out.println(result);
             // System.out.println("Application ended...");
         }
         catch(Exception e) {
