@@ -1,4 +1,5 @@
 package lecture102_inheritance_members;
 
-public class Shape {
+public abstract class Shape {
+    public abstract void draw();
 }

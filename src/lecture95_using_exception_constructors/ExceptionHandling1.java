@@ -10,6 +10,6 @@ public class ExceptionHandling1 {
     }
 
     public static void divideNumbers(int a, int b) {
-        throw new ArithmeticException();
+        throw new ArithmeticException(); // create ArithmeticException object with first constructor (without parameters)
     }
 }

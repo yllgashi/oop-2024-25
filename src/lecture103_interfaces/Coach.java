@@ -1,4 +1,5 @@
 package lecture103_interfaces;
 
-public class Coach {
+public class Coach extends Person {
+
 }

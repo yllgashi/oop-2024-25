@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-06-10T11:01:31.446380100Z</date>
+  <millis>1749553291446</millis>
+  <nanos>380100</nanos>
+  <sequence>0</sequence>
+  <logger>ExceptionLoggingInFileExample</logger>
+  <level>SEVERE</level>
+  <class>lecture96_exceptions_logging.ExceptionLoggingInFileExample</class>
+  <method>main</method>
+  <thread>3</thread>
+  <message>An arithmetic exception occurred</message>
+  <exception>
+    <message>java.lang.ArithmeticException</message>
+    <frame>
+      <class>lecture96_exceptions_logging.ExceptionLoggingInFileExample</class>
+      <method>main</method>
+      <line>20</line>
+    </frame>
+  </exception>
+</record>
+</log>

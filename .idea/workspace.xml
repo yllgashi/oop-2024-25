@@ -5,25 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe201cc-7d89-40d0-830f-8056e07eb200" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lecture90_exceptions_2/TryCatchInsideMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture90_exceptions_2/TryCatchOutsideMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture91_exceptions_checked_unchecked/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture92_exceptions_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture92_exceptions_3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture93_create_own_exceptions/InvalidEmailException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture93_create_own_exceptions/InvalidPhoneNumberException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture93_create_own_exceptions/SocialNetworkExampleWithTryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture93_create_own_exceptions/SocialNetworkExampleWithoutTryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture93_create_own_exceptions/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture94_create_own_exception_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture94_create_own_exception_2/MyOwnException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture95_using_exception_constructors/CommonlyHandlingExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture95_using_exception_constructors/ExceptionHandling1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture95_using_exception_constructors/ExceptionHandling2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture95_using_exception_constructors/ExceptionHandling3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture100_abstact_class/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture100_abstact_class/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture100_abstact_class/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture100_abstact_class/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture101_polymorphism_with_abstract_class/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture101_polymorphism_with_abstract_class/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture101_polymorphism_with_abstract_class/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture101_polymorphism_with_abstract_class/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture101_polymorphism_with_abstract_class/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture102_inheritance_members/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture102_inheritance_members/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture102_inheritance_members/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture103_interfaces/Attacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture103_interfaces/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture103_interfaces/GoalKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture103_interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture103_interfaces/Midfield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture103_interfaces/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture103_interfaces/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture104_what_is_interface/BarbieGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture104_what_is_interface/ChessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture104_what_is_interface/FootballGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture104_what_is_interface/GameRules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture104_what_is_interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture104_what_is_interface/MatchmakingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture105_polymorphism_with_interface/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture105_polymorphism_with_interface/Creation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture105_polymorphism_with_interface/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture105_polymorphism_with_interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture106_static/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture106_static/MyMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture110_university_workshop_example/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture110_university_workshop_example/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture110_university_workshop_example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture110_university_workshop_example/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture110_university_workshop_example/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture110_university_workshop_example/UniversityUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture96_exceptions_logging/ExceptionLoggingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture96_exceptions_logging/ExceptionLoggingInFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture97_simple_exception_handling_app/InvalidPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture97_simple_exception_handling_app/InvalidPersonalNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture97_simple_exception_handling_app/LoginExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture98_without_abstact_class/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture98_without_abstact_class/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture98_without_abstact_class/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture98_without_abstact_class/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture99_with_abstact_class/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture99_with_abstact_class/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture99_with_abstact_class/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture99_with_abstact_class/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture89_exceptions_1/TryCatchAndFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture89_exceptions_1/TryCatchAndFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture95_using_exception_constructors/ExceptionHandling1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture95_using_exception_constructors/ExceptionHandling1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture95_using_exception_constructors/ExceptionHandling2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture95_using_exception_constructors/ExceptionHandling2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +68,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,13 +87,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CommonlyHandlingExceptions.executor": "Debug",
-    "Application.ExceptionHandling1.executor": "Run",
-    "Application.ExceptionHandling2.executor": "Run",
+    "Application.ExceptionHandling1.executor": "Debug",
+    "Application.ExceptionHandling2.executor": "Debug",
     "Application.ExceptionHandling3.executor": "Debug",
+    "Application.ExceptionLoggingExample.executor": "Run",
+    "Application.ExceptionLoggingInFileExample.executor": "Run",
     "Application.IndexOutOfBoundsExample2.executor": "Run",
+    "Application.LoginExample.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.TryCatchOutsideMethod.executor": "Run",
+    "Application.UniversityUI.executor": "Run",
+    "Application.lecture100_abstact_class.Main.executor": "Run",
+    "Application.lecture101_polymorphism_with_abstract_class.Main.executor": "Run",
+    "Application.lecture104_what_is_interface.Main.executor": "Run",
+    "Application.lecture105_polymorphism_with_interface.Main.executor": "Run",
     "Application.lecture91_exceptions_checked_unchecked.Main.executor": "Run",
+    "Application.lecture96_exceptions_logging.Main.executor": "Run",
+    "Application.lecture99_with_abstact_class.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -82,13 +127,13 @@
       <command value="pr" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExceptionHandling3">
-    <configuration name="CommonlyHandlingExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture95_using_exception_constructors.CommonlyHandlingExceptions" />
+  <component name="RunManager" selected="Application.UniversityUI">
+    <configuration name="UniversityUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture110_university_workshop_example.UniversityUI" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture95_using_exception_constructors.*" />
+          <option name="PATTERN" value="lecture110_university_workshop_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandling1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture95_using_exception_constructors.ExceptionHandling1" />
+    <configuration name="lecture100_abstact_class.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture100_abstact_class.Main" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture95_using_exception_constructors.*" />
+          <option name="PATTERN" value="lecture100_abstact_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandling2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture95_using_exception_constructors.ExceptionHandling2" />
+    <configuration name="lecture101_polymorphism_with_abstract_class.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture101_polymorphism_with_abstract_class.Main" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture95_using_exception_constructors.*" />
+          <option name="PATTERN" value="lecture101_polymorphism_with_abstract_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandling3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture95_using_exception_constructors.ExceptionHandling3" />
+    <configuration name="lecture104_what_is_interface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture104_what_is_interface.Main" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture95_using_exception_constructors.*" />
+          <option name="PATTERN" value="lecture104_what_is_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture92_exceptions_3.Main" />
+    <configuration name="lecture105_polymorphism_with_interface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture105_polymorphism_with_interface.Main" />
       <module name="oop-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture92_exceptions_3.*" />
+          <option name="PATTERN" value="lecture105_polymorphism_with_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExceptionHandling3" />
-        <item itemvalue="Application.ExceptionHandling2" />
-        <item itemvalue="Application.ExceptionHandling1" />
-        <item itemvalue="Application.CommonlyHandlingExceptions" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UniversityUI" />
+        <item itemvalue="Application.lecture105_polymorphism_with_interface.Main" />
+        <item itemvalue="Application.lecture104_what_is_interface.Main" />
+        <item itemvalue="Application.lecture101_polymorphism_with_abstract_class.Main" />
+        <item itemvalue="Application.lecture100_abstact_class.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +262,10 @@
       <workItem from="1749118103720" duration="6217000" />
       <workItem from="1749404553933" duration="22000" />
       <workItem from="1749404626228" duration="1182000" />
+      <workItem from="1749544711791" duration="1120000" />
+      <workItem from="1749550898077" duration="5631000" />
+      <workItem from="1749592161430" duration="2351000" />
+      <workItem from="1749629731279" duration="6257000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -289,6 +338,21 @@
           <url>file://$PROJECT_DIR$/src/lecture95_using_exception_constructors/CommonlyHandlingExceptions.java</url>
           <line>7</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lecture95_using_exception_constructors/ExceptionHandling1.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lecture95_using_exception_constructors/ExceptionHandling2.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lecture95_using_exception_constructors/ExceptionHandling3.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

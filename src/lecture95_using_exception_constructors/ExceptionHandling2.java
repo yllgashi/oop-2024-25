@@ -10,6 +10,6 @@ public class ExceptionHandling2 {
     }
 
     public static void divideNumbers(int a, int b) {
-        throw new ArithmeticException("Error message written by me");
+        throw new ArithmeticException("Error message written by me"); // create ArithmeticException object using second constructor (with message)
     }
 }
